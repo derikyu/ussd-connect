@@ -1,0 +1,2 @@
+add Procfile
+add .htaccess
